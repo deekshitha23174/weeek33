@@ -9,9 +9,9 @@ public class Prime {
         int number = scanner.nextInt();
         
         if (isPrime(number)) {
-            System.out.println(number + " is a prime number.");
+            System.out.println(number + " is a an prime number.");
         } else {
-            System.out.println(number + " is not a prime number.");
+            System.out.println(number + " is not a an prime number.");
         }
         
         scanner.close();
